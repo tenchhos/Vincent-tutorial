@@ -1,2 +1,3 @@
 # Vincent-tutorial
-This is a tutorial about how to use Vincent for data visualization. Since, Vincent is a visualization tool The tutorial is written on ipython 
+This is a tutorial about how to use Vincent for data visualization. Vincent is a visualization tool in python.
+The tutorial is written on ipython notebook. 
